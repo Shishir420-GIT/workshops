@@ -1,0 +1,9 @@
+{
+  "hackathon": {
+    "status": "found",
+    "event": "hackathon",
+    "venue": "Auditorium",
+    "reporting_time": "09:00 AM",
+    "source": "Fictional campus event notice (events.json)"
+  }
+}

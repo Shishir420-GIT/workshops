@@ -1,0 +1,7 @@
+# Application dependencies, tested on Python 3.12.
+streamlit==1.64.0
+google-adk==2.10.0
+google-genai==2.25.0
+scikit-learn==1.9.1
+numpy==2.5.3
+python-dotenv==1.2.3
