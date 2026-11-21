@@ -1,0 +1,10 @@
+{
+  "name": "vibes-dont-scale-deck",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "present": "npx --yes hyperframes@0.9.72 present .",
+    "build": "python3 tools/build_deck.py",
+    "check": "npx --yes hyperframes@0.9.72 check"
+  }
+}
